@@ -39,8 +39,6 @@ A modern, clean website built with HTML, CSS, and JavaScript showcasing design a
 
 ---
 
-## 📊 GitHub Stats
-![Hamisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamisi-Salehe-Mohamedy&show_icons=true)
 
 ---
 
